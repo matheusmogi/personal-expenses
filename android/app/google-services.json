@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "6049497090",
+    "firebase_url": "https://personalexpenses-8eae6.firebaseio.com",
+    "project_id": "personalexpenses-8eae6",
+    "storage_bucket": "personalexpenses-8eae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6049497090:android:25fab2d0ca0e349678a71b",
+        "android_client_info": {
+          "package_name": "com.matheusmogi.personal_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6049497090-12cs91oa86a8uconn4mm84bq0gm21vc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQnY_DJSTH64w9eHtB9ZvoRTHW2-NMOo"
+        }
+        
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6049497090-12cs91oa86a8uconn4mm84bq0gm21vc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
